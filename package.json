@@ -1,0 +1,19 @@
+{
+  "name": "the-quote-a-day",
+  "version": "1.0.0",
+  "description": "simple quote node js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edureka",
+    "express",
+    "quotes"
+  ],
+  "author": "edureka baluragala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
